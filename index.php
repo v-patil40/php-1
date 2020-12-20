@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "Hello bro";
+echo "This is Openshift v3.5";
 ?>
 
 </body>
