@@ -1,6 +1,6 @@
 # Solution
-  - Use docker run -d infracloudio/csvserver:latest 
-  - check error using docker logs Container_id
+  - step1- docker run -d infracloudio/csvserver:latest 
+  - check errors by using docker logs Container_id
     ```console
     2021/01/20 15:19:12 error while reading the file "./inputdata": open ./inputdata: no such file or directory
     ```
