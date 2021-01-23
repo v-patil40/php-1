@@ -39,7 +39,8 @@
   ```console
   docker-compose up
   ```
-  - Promethus requires promethus configuration file called as promethus.yml which is provided in solution directory.
+  - step6:
+  - Promethus requires promethus configuration file promethus.yml which is provided in solution directory.
 > **NOTE**: Change ip address and port in promethus.yml file.
   ```console
   docker-compose up
